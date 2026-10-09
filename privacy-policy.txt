@@ -116,7 +116,7 @@ Depending on your location, you may have the right to request access to, correct
 
 To submit a privacy request, contact:
 
-Email: [Your Privacy Contact Email]
+Email: matthew.graves.cs@gmail.com
 
 Please include your Discord user ID so we can identify the relevant records. Do not send your password or other sensitive account credentials.
 
