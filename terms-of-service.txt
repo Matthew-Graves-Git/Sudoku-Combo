@@ -1,0 +1,159 @@
+Sudoku Combo — Terms of Service
+
+Effective Date: October 8, 2026
+Last Updated: October 8, 2026
+
+1. Introduction
+
+Welcome to Sudoku Combo (“Sudoku Combo,” “we,” “us,” or “our”), a free Sudoku gaming application available through Discord.
+
+These Terms of Service (“Terms”) govern your use of Sudoku Combo, including its slash commands, Sudoku puzzles, leaderboards, multiplayer games, challenges, and related features (collectively, the “Service”).
+
+By using Sudoku Combo, you agree to these Terms. If you do not agree, please stop using the Service.
+
+Sudoku Combo is independently operated by an individual developer and is not affiliated with, endorsed by, or officially associated with Discord Inc.
+
+Operator: Matthew Graves
+Contact Email: matthew.graves.cs@gmail.com
+Privacy Policy: [Your Privacy Policy URL]
+
+2. Eligibility
+
+You may use Sudoku Combo only if you are permitted to do so under applicable law and Discord's applicable age requirements and policies.
+
+You must also comply with Discord's Terms of Service, Community Guidelines, Developer Terms of Service, and Developer Policy.
+
+You may not use the Service in violation of applicable laws or regulations.
+
+3. Description of the Service
+
+Sudoku Combo is a free Discord application designed to provide Sudoku-related entertainment. Its features may include:
+
+Starting and playing Sudoku puzzles through Discord slash commands.
+Recording Sudoku scores and gameplay statistics.
+Viewing leaderboards and comparing results.
+Participating in multiplayer games or challenges.
+Accessing related puzzle and competitive features.
+
+Features may change over time. We may add, modify, suspend, or discontinue features as reasonably necessary to maintain, improve, or protect the Service.
+
+We do not guarantee uninterrupted operation, permanent storage of scores, or the continued availability of any particular feature.
+
+4. Cost and Payments
+
+Sudoku Combo is currently provided free of charge. No payment is required to use its standard features.
+
+We do not currently offer paid subscriptions, premium features, or in-app purchases.
+
+If we introduce paid features in the future, we will provide any necessary additional terms and disclosures before those features become available.
+
+5. Acceptable Use
+
+You agree not to:
+
+Exploit bugs, glitches, or vulnerabilities to manipulate gameplay or obtain an unfair advantage.
+Falsify scores, challenge results, or leaderboard rankings.
+Use unauthorized scripts, automation, or other methods to disrupt gameplay or undermine fair competition.
+Interfere with the Service's operation, security, or infrastructure.
+Attempt unauthorized access to our systems, databases, or other users' information.
+Abuse commands or repeatedly generate requests in a way that disrupts the Service.
+Harass, threaten, impersonate, or abuse other users through the Service.
+Use Sudoku Combo for unlawful purposes or in violation of Discord's policies.
+Circumvent restrictions imposed to address cheating, abuse, or security risks.
+
+You are responsible for your use of Sudoku Combo and for complying with these Terms.
+
+6. Fair Play and Leaderboards
+
+Sudoku Combo aims to provide a fair and enjoyable environment for puzzle solving and friendly competition.
+
+We may investigate suspicious scores or challenge results and, when reasonably justified, correct statistics, remove leaderboard entries, reset affected results, or restrict access to relevant features.
+
+Leaderboards and statistics are provided for entertainment. We do not guarantee that rankings will always be accurate, continuously available, or permanently retained.
+
+We reserve the right to make reasonable adjustments to scoring systems and competitive features.
+
+7. Discord Accounts and Platform Availability
+
+Sudoku Combo operates through Discord. You are responsible for your Discord account and activity conducted through it.
+
+We do not control Discord's services, account enforcement, outages, platform changes, or independent data practices.
+
+Sudoku Combo may become unavailable due to Discord outages, maintenance, hosting failures, technical problems, or other circumstances beyond our reasonable control.
+
+8. Intellectual Property
+
+Sudoku Combo's original software, branding, design, and other original materials are owned by or licensed to the developer, except for third-party materials.
+
+We grant you a limited, non-exclusive, revocable, non-transferable permission to use the Service for its intended personal entertainment purposes, subject to these Terms.
+
+You may not copy, distribute, sell, sublicense, or commercially exploit our original materials without permission, except where applicable law permits such use.
+
+General Sudoku rules and mathematical concepts are not claimed as exclusive property of Sudoku Combo.
+
+Discord and its names, logos, and trademarks belong to their respective owners.
+
+9. Suspension and Termination
+
+You may stop using Sudoku Combo at any time.
+
+We may suspend or restrict access when reasonably necessary to enforce these Terms, prevent cheating or abuse, protect the Service, address security incidents, or comply with legal obligations.
+
+Where reasonably practicable, we will provide notice of significant restrictions. Advance notice may not be possible where immediate action is needed to protect users, security, or the Service.
+
+If we permanently discontinue Sudoku Combo, we will handle stored Discord API data in accordance with our Privacy Policy, applicable law, and Discord's Developer Terms.
+
+10. Privacy
+
+Our Privacy Policy explains how we handle Discord user IDs, gameplay scores, statistics, and other information necessary to provide Sudoku Combo.
+
+Privacy Policy: [Your Privacy Policy URL]
+
+Please review the Privacy Policy before using the Service.
+
+11. Third-Party Services
+
+Sudoku Combo depends on Discord and may depend on third-party hosting or database providers.
+
+Third-party services operate under their own terms and privacy policies. We are not responsible for their independent operation or policies, subject to rights that cannot legally be excluded.
+
+12. Disclaimer of Warranties
+
+To the maximum extent permitted by law, Sudoku Combo is provided “AS IS” and “AS AVAILABLE,” without warranties of any kind, express or implied.
+
+We do not guarantee that the Service will be uninterrupted, secure, error-free, or suitable for every purpose.
+
+Nothing in these Terms excludes warranties or rights that cannot legally be excluded.
+
+13. Limitation of Liability
+
+To the maximum extent permitted by applicable law, the developer will not be liable for indirect, incidental, special, consequential, exemplary, or punitive damages, or for loss of data, goodwill, or use arising from your use of, or inability to use, the Service.
+
+To the maximum extent permitted by applicable law, the developer's total liability for claims related to the Service will not exceed USD $50.
+
+This limitation does not apply to liability that cannot legally be limited or excluded.
+
+14. Changes to These Terms
+
+We may revise these Terms to reflect changes in the Service, applicable law, or our operating practices.
+
+We will update the “Last Updated” date and provide additional notice when required by law.
+
+Where legally permitted, continued use of Sudoku Combo after revised Terms take effect constitutes acceptance of the updated Terms. If you disagree, stop using the Service.
+
+15. Governing Law
+
+These Terms are governed by the laws of [Your State and Country], except where mandatory applicable law provides otherwise.
+
+Disputes will be handled by courts with appropriate jurisdiction, subject to rights and protections that cannot legally be waived.
+
+16. Severability
+
+If any provision of these Terms is found unenforceable, the remaining provisions will continue to apply to the extent permitted by law.
+
+17. Contact
+
+For questions about these Terms, contact:
+
+Sudoku Combo Support
+Email: matthew.graves.cs@gmail.com

@@ -1,0 +1,188 @@
+Sudoku Combo — Privacy Policy
+
+Effective Date: October 8, 2026
+Last Updated: October 8, 2026
+
+1. Introduction
+
+Sudoku Combo (“Sudoku Combo,” “we,” “us,” or “our”) is a free Discord gaming application independently operated by an individual developer.
+
+This Privacy Policy explains how Sudoku Combo collects, uses, stores, and deletes information when you use its slash commands, Sudoku games, leaderboards, multiplayer features, and challenges (collectively, the “Service”).
+
+Operator: Matthew Graves
+Contact Email: matthew.graves.cs@gmail.com
+
+
+We aim to collect only the information reasonably necessary to provide Sudoku Combo's features.
+
+2. Information We Collect
+A. Discord User IDs
+
+We store your Discord user ID to recognize your account and associate your Sudoku scores and statistics with you.
+
+Your Discord user ID is a persistent identifier. Although it is not your real name, it can be used to distinguish your account and may constitute personal information under applicable privacy laws.
+
+We do not need your Discord password to operate Sudoku Combo.
+
+B. Sudoku Scores and Statistics
+
+We store gameplay information necessary to provide the Service, which may include:
+
+Sudoku scores and results.
+Statistics used to calculate performance or rankings.
+Information needed to support leaderboards and multiplayer challenges.
+
+The specific records stored depend on the features implemented in the application.
+
+We use this information to save gameplay results, maintain leaderboards, facilitate challenges, and provide a consistent gaming experience.
+
+C. Slash Commands and Interactions
+
+When you use Sudoku Combo's slash commands or interactive features, Discord provides information needed for the application to process your request.
+
+We process relevant interaction data to execute commands, identify the user, and return the requested game response.
+
+We do not intentionally store general Discord message content, private conversations, passwords, email addresses, or precise location data as part of Sudoku Combo's stated gameplay data collection.
+
+This statement assumes the application's code and its infrastructure do not independently collect or retain such information. Temporary processing and technical logs are addressed below.
+
+3. How We Use Information
+
+We use the information described in this policy to:
+
+Identify players through Discord user IDs.
+Save and retrieve Sudoku scores and statistics.
+Calculate and display leaderboard rankings.
+Support multiplayer games and challenges.
+Respond to slash commands and interactive requests.
+Detect suspicious results, cheating, and misuse.
+Maintain the security and reliability of the Service.
+Troubleshoot technical problems and fulfill legitimate support requests.
+Comply with applicable legal obligations.
+
+We do not sell personal information, and Sudoku Combo does not currently offer paid subscriptions, premium features, or in-app purchases.
+
+We do not use the gameplay data described in this policy for advertising or behavioral advertising.
+
+4. How Information Is Shared
+
+We do not sell your personal information. We may process or disclose limited information in the following circumstances.
+
+A. Discord
+
+Sudoku Combo operates through Discord. Discord processes information according to its own policies and terms.
+
+When a leaderboard or challenge result is displayed in a Discord server or channel, information included in that response may be visible to users who have access to that location.
+
+B. Hosting and Database Providers
+
+If we use third-party hosting, database, or infrastructure providers, those providers may process information necessary to operate the Service.
+
+We will limit such processing to what is reasonably necessary for the provider to perform its services and will use appropriate safeguards as required by applicable law.
+
+The identity of any providers and the precise data they process depend on the application's actual deployment.
+
+C. Legal and Security Reasons
+
+We may disclose information when reasonably necessary to comply with applicable law, respond to valid legal requests, protect the rights or safety of users, investigate security incidents, or enforce our Terms of Service.
+
+We do not otherwise share gameplay data with unrelated third parties for their own independent marketing purposes.
+
+5. Leaderboards and Multiplayer Features
+
+Sudoku Combo includes leaderboards and multiplayer or challenge features.
+
+Your scores and statistics may be used to calculate rankings or display game results to other players. Depending on the feature, Discord user identifiers may be used internally to associate results with the correct player, while a username or display name may be shown in the resulting message.
+
+We do not intend to make a public directory of Discord user IDs.
+
+Because leaderboard and challenge messages may be visible to other members of a Discord server or channel, you should not assume that information displayed through those features is private.
+
+6. Data Retention
+
+We retain Discord user IDs and gameplay statistics only for as long as reasonably necessary to operate the Service, maintain requested game records, support leaderboards and challenges, protect against abuse, and satisfy applicable legal obligations.
+
+When information is no longer necessary, we will delete it or take appropriate steps to make it no longer identifiable, subject to lawful retention requirements.
+
+If you request deletion of your stored information, we will take reasonable steps to process the request promptly, including deleting associated gameplay records where applicable.
+
+Information may remain temporarily in backups or limited security records until those records expire or deletion can reasonably be completed, subject to applicable law and Discord's Developer Terms.
+
+We will not retain Discord API data longer than permitted by applicable law or Discord's applicable developer requirements.
+
+7. Your Privacy Rights and Data Deletion
+
+Depending on your location, you may have the right to request access to, correction of, or deletion of personal information associated with you. You may also have other rights under applicable privacy laws.
+
+To submit a privacy request, contact:
+
+Email: [Your Privacy Contact Email]
+
+Please include your Discord user ID so we can identify the relevant records. Do not send your password or other sensitive account credentials.
+
+We may request reasonable verification before acting on a request. We will respond within the timeframe required by applicable law.
+
+Requesting Deletion
+
+You may request deletion of your stored Discord user ID and associated Sudoku scores and statistics.
+
+When we receive a valid request, we will take reasonable steps to delete the applicable records, subject to legal retention requirements and limited technical delays.
+
+Removing the bot from a server or stopping use of Sudoku Combo does not necessarily delete gameplay records already stored in our database. Contact us to request deletion.
+
+If Sudoku Combo is discontinued, we will delete or otherwise handle Discord API data in accordance with Discord's Developer Terms and applicable law.
+
+8. Data Security
+
+We aim to use reasonable technical and organizational safeguards to protect stored information from unauthorized access, loss, misuse, or disclosure.
+
+Depending on our actual infrastructure, these safeguards may include restricting database access, protecting credentials, limiting stored information, and securing the hosting environment.
+
+No method of electronic storage or transmission is completely secure. We cannot guarantee absolute security, but we will take reasonable steps to protect the information we maintain.
+
+9. Children's Privacy
+
+Sudoku Combo is not intended to collect personal information from children under 13 in violation of applicable law.
+
+We do not knowingly collect personal information from children under 13 in circumstances where such collection is prohibited. If we learn that we have collected information in violation of applicable children's privacy requirements, we will take appropriate steps, including deletion where required.
+
+If you believe a child has provided information to Sudoku Combo in circumstances that raise a privacy concern, contact [Your Privacy Contact Email].
+
+This section does not replace any parental notice, consent, or other obligations that may apply if the Service is directed to children or otherwise falls within children's privacy laws.
+
+10. International Data Processing
+
+Sudoku Combo may rely on hosting or infrastructure providers located in countries other than your country of residence.
+
+Where information is transferred internationally, we will implement safeguards required by applicable law.
+
+The locations in which information is processed depend on the infrastructure providers actually used by the Service.
+
+11. Cookies and Tracking
+
+Sudoku Combo's Discord bot does not require a separate browser-based tracking system for its stated gameplay features.
+
+We do not intentionally use advertising cookies or behavioral advertising trackers as part of the Discord bot.
+
+If we introduce a website, dashboard, analytics service, or additional tracking technology in the future, we will update this policy as appropriate and provide any notices or consent options required by law.
+
+12. Third-Party Services
+
+Sudoku Combo depends on Discord and may use hosting, database, or infrastructure services.
+
+Those services may have their own privacy policies and data retention practices. This Privacy Policy covers Sudoku Combo's practices and does not replace the privacy policies of third-party services.
+
+13. Changes to This Policy
+
+We may update this Privacy Policy to reflect changes in the Service, data collection, infrastructure, or legal requirements.
+
+We will update the “Last Updated” date and provide additional notice when required by law.
+
+Material changes will be communicated through appropriate channels where required.
+
+14. Contact
+
+For questions, privacy requests, or concerns about how Sudoku Combo handles your information, contact:
+
+Sudoku Combo Privacy Support
+Email: matthew.graves.cs@gmail.com
