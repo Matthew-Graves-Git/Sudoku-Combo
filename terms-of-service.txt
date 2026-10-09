@@ -15,7 +15,7 @@ Sudoku Combo is independently operated by an individual developer and is not aff
 
 Operator: Matthew Graves
 Contact Email: matthew.graves.cs@gmail.com
-Privacy Policy: [Your Privacy Policy URL]
+Privacy Policy: https://github.com/Matthew-Graves-Git/Sudoku-Combo/blob/main/privacy-policy.txt
 
 2. Eligibility
 
@@ -107,7 +107,7 @@ If we permanently discontinue Sudoku Combo, we will handle stored Discord API da
 
 Our Privacy Policy explains how we handle Discord user IDs, gameplay scores, statistics, and other information necessary to provide Sudoku Combo.
 
-Privacy Policy: [Your Privacy Policy URL]
+Privacy Policy: https://github.com/Matthew-Graves-Git/Sudoku-Combo/blob/main/privacy-policy.txt
 
 Please review the Privacy Policy before using the Service.
 
